@@ -1,0 +1,23 @@
+key,en,de
+header_title,Visual Discovery,Visuelle Entdeckung
+header_tagline,EXPLORE · IMAGINE · FIND,ERKUNDEN · VORSTELLEN · FINDEN
+search_placeholder,Search for images ideas inspiration...,Suche nach Bildern Ideen Inspiration...
+search_button,Search,Suchen
+label_layout,Layout:,Layout:
+label_columns,Columns:,Spalten:
+label_size,Size:,Größe:
+option_grid,Grid,Raster
+option_masonry,Masonry,Mauerwerk
+option_small,Small,Klein
+option_medium,Medium,Mittel
+option_large,Large,Groß
+loading_message,Discovering images...,Bilder werden gesucht...
+image_description,Beautiful imagery captured in stunning detail,Wunderschöne Aufnahme in atemberaubenden Details
+category_nature,nature,Natur
+category_abstract,abstract,Abstrakt
+category_city,city,Stadt
+category_food,food,Essen
+category_people,people,Menschen
+category_technology,technology,Technologie
+category_art,art,Kunst
+category_animals,animals,Tiere
